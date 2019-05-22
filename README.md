@@ -88,4 +88,6 @@ Con este proyecto, hemos aprendido:
     - Como aplicar los conocimientos de programación adquiridos en clase a un lenguaje nuevo.
     - A utilizar Git y GitHub con proyectos reales.
     - A optimizar recursos para mejorar el espacio y el rendimiento de un proyecto.
+    - A publicar un videojuego en una página web.
+    - A exportar un mismo producto para varios sistemas operativos.
       
